@@ -2,7 +2,7 @@
 For more info and updates, follow on Twitter ([@Anagorth](https://twitter.com/Anagorth)) or Reddit ([r/anagorth](https://reddit.com/r/anagorth)).
 
 ## Roadmap
-*This roadmap is ever-evolving, so check back here for updates and changes.*
+*This roadmap is ever-evolving, so check back here for updates and changes. All dates and objectives are subject to change at any time and without notice.*
 
 #### Phase 1 - The Basics (Summer 2021)
 Content | Description | Status
