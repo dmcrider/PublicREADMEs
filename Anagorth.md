@@ -8,8 +8,8 @@ For more info and updates, follow on Twitter ([@Anagorth](https://twitter.com/An
 Content | Description | Status
 ------- | ----------- | ------
 Animations | Character and NPC animations | Backlog
-Dialog | PC-NPC Dialog options and UI | In Progress
-Interactions | Pick up objects, open doors, etc. | Backlog
+Dialog | PC-NPC Dialog options and UI | Complete
+Interactions | Pick up objects, open doors, etc. | In Progress
 
 #### Phase 2 - Combat (Fall 2021)
 Content | Description | Status
