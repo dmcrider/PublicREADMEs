@@ -4,6 +4,8 @@ For more info and updates, follow on Twitter ([@Anagorth](https://twitter.com/An
 ## Roadmap
 *This roadmap is ever-evolving, so check back here for updates and changes. All dates and objectives are subject to change at any time and without notice.*
 
+When a section is set to "Complete", it typically means just the technical aspect is complete. The UI and art style may very well change several times up until launch day.
+
 #### Phase 1 - The Basics (Summer 2021)
 Content | Description | Status
 ------- | ----------- | ------
